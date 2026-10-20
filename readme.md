@@ -1,0 +1,1 @@
+An ai model that predicts ur moves playing rock scisorss paper
